@@ -1,2 +1,2 @@
 # devopsjava_repo1
-DevOps India GDC
+DevOps India GDC - AMS & ITIS
